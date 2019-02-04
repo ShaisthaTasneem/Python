@@ -5,6 +5,6 @@ for i in range(2,n//2):
         count=1
         break
 if count==0:
-    print("prime")
+    print("yes")
 else:
-    print("not prime")
+    print("not")
